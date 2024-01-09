@@ -4,6 +4,8 @@
 <!-- Title -->
 # ✅ 첫 이미지 학습 완료
 
+<br/>
+
 <!-- Contents -->
 ### 📌 공동 분석 모델의 발전
 > - 2023-01-09 공동 분석 모델 개발(CDM)이 시작되었음
@@ -33,6 +35,8 @@
 <!-- Title -->
 # ✅ Python을 활용한 이미지 학습
 
+<br/>
+
 <!-- Contents -->
 ### 📌 공동 분석 모델 개발의 시작
 > - 작성자는 현재 엔지니어링 서비스 업체에서 근무중임
@@ -59,7 +63,7 @@
 <br/>
 
 ### 🎁 References
-> - [LinkedIn Profile](www.linkedin.com/in/chang-seong-kim-7826142a0)
+> - [작성자의 LinkedIn Profile](www.linkedin.com/in/chang-seong-kim-7826142a0)
 
 <br/>
 
