@@ -23,6 +23,12 @@
 
 <br/>
 
+### 🎁 References
+> - 아래는 학습시킨 이미지이며 이는 맨홀을 지날 때의 GPR 신호임
+<p align="center"><img src="https://github.com/Kim-src/Cavity/assets/150884526/d6775c1a-e468-48e9-98b7-53a88272efda" width="500px"><p/>
+
+<br/>
+
 ***
 
 <br/>
@@ -64,6 +70,7 @@
 
 ### 🎁 References
 > - [작성자의 LinkedIn Profile](www.linkedin.com/in/chang-seong-kim-7826142a0)
+
 
 <br/>
 
