@@ -71,7 +71,7 @@
 ### 🎁 References
 > - [작성자의 LinkedIn Profile](www.linkedin.com/in/chang-seong-kim-7826142a0)
 > - 아래는 [GPR 탐사 모습](http://www.engjournal.co.kr/news/articleView.html?idxno=2251)이며 추후 시각화 된 GPR 신호를 공개할 예정임(공개 가능 시)
-<p align="center"><img src="https://github.com/Kim-src/Cavity/assets/150884526/5c166a82-d5b4-4f4a-9fe6-31b9b99168b2" width="360px"><p/>
+<p align="center"><img src="https://github.com/Kim-src/Cavity/assets/150884526/5c166a82-d5b4-4f4a-9fe6-31b9b99168b2" width="500px"><p/>
 
 <br/>
 
