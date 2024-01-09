@@ -24,7 +24,7 @@
 <br/>
 
 ### 🎁 References
-> - 아래는 학습시킨 이미지이며 이는 가시화 된 맨홀을 지날 때의 GPR 신호임
+> - 아래는 학습시킨 이미지이며 이는 맨홀을 지날 때의 GPR 신호가 가시화 된 모습임
 <p align="center"><img src="https://github.com/Kim-src/Cavity/assets/150884526/d6775c1a-e468-48e9-98b7-53a88272efda" width="360px"><p/>
 
 <br/>
